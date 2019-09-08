@@ -1,6 +1,6 @@
 def add(x,y,z):
     pass
-def subtract(x,y):
+def subtract(x,y,z):
     pass
 def multiply(x,y):
     pass
